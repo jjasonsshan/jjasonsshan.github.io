@@ -25,6 +25,7 @@ body {
   width: 200px;
   margin: 0 auto;
   background-color: white;
+  transition: background-color 3s;
 }
 
 .v-boxHover h4{
@@ -36,7 +37,7 @@ body {
 }
 
 .v-boxHover:hover{
-  background-color: darkgrey;
+  background-color: #19d69c;
 }
 
 #channel{
