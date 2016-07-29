@@ -1,0 +1,129 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  background-color: lightblue;
+}
+
+#contacts{
+  border: 2px solid black;
+  width: 100px;
+  text-align: center;
+  border-radius: 10px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  background-color: white;
+}
+
+#contacts:hover{
+  background-color: darkgrey;
+}
+
+.v-boxHover{
+  list-style-type: none;
+  border: 2px solid black;
+  border-radius: 15px;
+  text-align: center;
+  width: 200px;
+  margin: 0 auto;
+  background-color: white;
+}
+
+.v-boxHover:hover{
+  background-color: darkgrey;
+}
+
+#channel{
+  text-align: center;
+}
+
+#channel h4{
+  display: inline-block;
+  position: relative;
+  bottom: 45px;
+}
+
+#channel h3{
+  text-decoration: underline;
+}
+
+#channel img{
+  height: 90px;
+  width: 100px;
+  border: 3px solid black;
+  display: inline-block;
+}
+
+#random-posts{
+  text-decoration: underline;
+  text-align: center;
+}
+
+#home{
+  border: 3px solid block;
+  background-color: white;
+}
+
+#nameundermygmailphoto{
+  text-align: center;
+}
+
+#mygmailphoto{
+  display: block;
+  margin: 0 auto;
+  border-radius: 99999px;
+  border: 5px solid black;
+}
+
+.progress{
+  text-align: center;
+}
+
+#a-brief-overview{
+  text-align: center;
+}
+
+#headerbackgroundimg{
+  background-image: url(Refreshing%20Mountains.jpg);
+  background-size: cover;
+  /*how to get the full image to show in close-up*/
+}
+
+#mysummer{
+  text-align: center;r
+  border: 2px solid black;
+  background-color: white;
+}
+
+#mysummer:hover{
+  background-color: lightgrey;
+}
+
+#mysummer h4{
+  text-decoration: underline;
+}
+
+#home{
+  border: 2px solid black;
+  border-radius: 15px;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 15px;
+  width: 100px;
+}
+
+#home:hover{
+  background-color: lightgrey;
+}
+
+#abigthankyou{
+  text-align: center;
+}
+
+#abigthankyou a{
+  text-decoration: none;
+  color: #5dae8b;
+}
+
+#abigthankyou a:hover{
+  text-decoration: underline dashed;
+  color: cadetblue;
+}
