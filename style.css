@@ -25,8 +25,14 @@ body {
   width: 200px;
   margin: 0 auto;
   background-color: white;
-  text-decoration: none;
+}
+
+.v-boxHover h4{
   color: black;
+}
+
+.v-boxHover a{
+  text-decoration: none;
 }
 
 .v-boxHover:hover{
