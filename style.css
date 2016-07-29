@@ -25,6 +25,8 @@ body {
   width: 200px;
   margin: 0 auto;
   background-color: white;
+  text-decoration: none;
+  color: black;
 }
 
 .v-boxHover:hover{
@@ -84,7 +86,6 @@ body {
 #headerbackgroundimg{
   background-image: url(Moraine_Lake_17092005.jpg);
   background-size: cover;
-  /*how to get the full image to show in close-up*/
 }
 
 #mysummer{
