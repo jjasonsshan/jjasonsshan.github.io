@@ -53,6 +53,10 @@ body {
   text-decoration: underline;
 }
 
+#channel a{
+  color: black;
+}
+
 #channel img{
   height: 90px;
   width: 100px;
@@ -95,9 +99,15 @@ body {
 }
 
 #mysummer{
-  text-align: center;r
   border: 2px solid black;
   background-color: white;
+  display: block;
+  margin: 0 auto;
+  width: 600px;
+}
+
+#mysummer p{
+  text-align: center;
 }
 
 #mysummer:hover{
@@ -106,6 +116,7 @@ body {
 
 #mysummer h4{
   text-decoration: underline;
+  text-align: center;
 }
 
 #home{
